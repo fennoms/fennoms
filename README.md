@@ -2,11 +2,16 @@
 
 ###
 
-<p align="left">📚 I am a Computer Science student at the University of Amsterdam<br>🏐 In my free time I like to maintain my homelab and learn about new technologies</p>
+<div align="center">
+  <img height="200" src="https://github.com/fennoms.png"  />
+  
+</div>
 
 ###
 
-<img align="right" height="200" src="https://github.com/fennoms.png"  />
+<p align="left">📚 I am a Computer Science student at the University of Amsterdam<br>🏐 In my free time I like to maintain my homelab and learn about new technologies</p>
+
+###
 
 ###
 
